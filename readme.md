@@ -1,4 +1,7 @@
-Video: https://youtu.be/zdNbWseWQck
+# TezGuard
+## No password. No risk.
+
+Demo: https://youtu.be/zdNbWseWQck
 
 This project is a minimalist demo of our NFT authentification system, made for companies.
 
