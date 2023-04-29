@@ -1,6 +1,8 @@
 # TezGuard
 ## No password. No risk.
 
+This project has been made in 48H during a Tezos hackathon.
+
 Demo: https://youtu.be/zdNbWseWQck
 
 This project is a minimalist demo of our NFT authentification system, made for companies.
