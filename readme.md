@@ -25,6 +25,5 @@ Then, we uses the tzkt API to check if a specific wallet hold a NFT associated w
 
 //// RUN THE APP ///
 
-cd frontend
 yarn install
 yarn run dev 
