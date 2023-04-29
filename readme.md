@@ -25,9 +25,6 @@ Then, we uses the tzkt API to check if a specific wallet hold a NFT associated w
 
 //// RUN THE APP ///
 
-(in the console)
-
+cd frontend
 yarn install
 yarn run dev 
-
-or go to https://tezos-hackathon.vercel.app (hosted on Vercel)
