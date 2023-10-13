@@ -5,7 +5,7 @@ This project has been made in 48H during a Tezos hackathon.
 
 ![jyt](https://user-images.githubusercontent.com/13381610/235973136-d1c236ec-2c00-4915-b3f2-6a8c75ea1616.png)
 
-Demo: https://youtu.be/zdNbWseWQck
+App: https://youtu.be/zdNbWseWQck
 
 This project is a minimalist demo of our NFT authentification system, made for companies.
 
